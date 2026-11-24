@@ -1,0 +1,609 @@
+{
+ "cards": [
+  {
+   "caption": "22 hurt; block collapses.",
+   "headline": "Zaporizhzhia: 2 dead",
+   "n": 2,
+   "tag": "AIR WAR"
+  },
+  {
+   "caption": "Toll since truce now 1,679.",
+   "headline": "Khan Younis: 3 killed",
+   "n": 3,
+   "tag": "GAZA"
+  },
+  {
+   "caption": "Urgency 318–135; saves ≥R$50bn.",
+   "headline": "Brazil fiscal plan passes",
+   "n": 10,
+   "tag": "CONGRESS"
+  },
+  {
+   "caption": "Launches Wed 07:18 WIB.",
+   "headline": "Shenzhou-24 crew named",
+   "n": 23,
+   "tag": "LAUNCH PAD"
+  },
+  {
+   "caption": "JCS: ADIZ only, no violation.",
+   "headline": "Russian jets enter KADIZ",
+   "n": 8,
+   "tag": "KADIZ"
+  },
+  {
+   "caption": "VW wants pay freeze 2027–28.",
+   "headline": "VW wage talks open",
+   "n": 20,
+   "tag": "EMDEN"
+  },
+  {
+   "caption": "Union wants +5% for 3.7m.",
+   "headline": "Strikes hit 22 plants",
+   "n": 21,
+   "tag": "IG METALL"
+  },
+  {
+   "caption": "Surplus beats Hormuz risk.",
+   "headline": "Brent ~$89, 3-month low",
+   "n": 16,
+   "tag": "OIL"
+  },
+  {
+   "caption": "Stevens 5 FGs; 64 yards in 34s.",
+   "headline": "Commanders stun Bengals",
+   "n": 28,
+   "tag": "THE GRIDIRON"
+  },
+  {
+   "caption": "Kings win 2–1 in Montreal.",
+   "headline": "Larkin debuts for Montreal",
+   "n": 30,
+   "tag": "THE RINK"
+  },
+  {
+   "caption": "Lewis-Potter brace in 178s.",
+   "headline": "Brentford 4–0 Everton",
+   "n": 31,
+   "tag": "THE PITCH"
+  },
+  {
+   "caption": "No human has checked it yet.",
+   "headline": "Claude claims VP≠VNP",
+   "n": 25,
+   "tag": "THE PROOF"
+  }
+ ],
+ "claims": [
+  "RUSSIA CLAIMS 699 drones downed overnight — unverified",
+  "RUSSIA CLAIMS Odesa cargo ship + Chernihiv substation hit — unverified",
+  "IRGC CLAIMS 3 tankers hit mines in Hormuz (Mon) — unverified",
+  "CLAUDE CLAIMS VP≠VNP proof — unverified by humans",
+  "FT REPORTS SpaceX–Tesla merger talks — unverified"
+ ],
+ "date_check_left": "LEFT OUT (other days): Listyo Sigit treason charges (Mon evening WIB) · Nvidia earnings (17 Nov, $115.8bn) · 153 drones + refinery strikes (22–23 Nov) · Larkin trade (22 Nov) · Skubal $450m (22 Nov) · GLM-5.4 / Ladybird / Shirudo / DeepMind quantum (23 Nov) · Merkury sinking (22 Nov) · Rosstat leak (23 Nov) · Polish drone incursion (Mon 23 Nov) · Spain power blackout (April 2025) · COP31 collapse (22 Nov)",
+ "date_check_right": "NOT YET: Ariane 6 launch (window 17:45–18:14 WIB) · T20I 2 AUS–ENG result · Shenzhou-24 launch (Wed 07:18 WIB) · NATO AWACS arrival date · Brazil amendments vote · Wall Street close. NOTE: NATO AWACS announced Mon evening Brussels = Tue 05:00 WIB — included per WIB rule.",
+ "date_line": "TUESDAY, 24 NOVEMBER 2026",
+ "edition": "THE WORLD",
+ "footer_bold": "Every story above happened or was first reported on Tuesday 24 November 2026.",
+ "footer_small": "Sources: Reuters · AP · CNN · AFP · Yonhap · Kyodo · S&P Global · USGS · CMSA · ESPNcricinfo — Drawn in code; illustrations, not photographs. Research cut-off 15:00 WIB; Ariane 6 launch pending at press time.",
+ "heroes": [
+  {
+   "critical": true,
+   "deck": "SACEUR authorises one E-3A early-warning jet for Poland after the NAC emergency session on three Russian missiles.",
+   "halftone": true,
+   "headline": "AWACS TO POLAND",
+   "kicker": "NATO — BRUSSELS",
+   "n": 1,
+   "sub": "Article 4 NOT invoked  ·  “Russia bears full responsibility” — NATO",
+   "tag": "NATO DESK"
+  },
+  {
+   "critical": false,
+   "deck": "Taiex +9.1% — biggest day in over a year; Kospi +7%, Nikkei +3.9%; TSMC limit-up.",
+   "halftone": false,
+   "headline": "ASIA RALLIES",
+   "kicker": "TAIPEI · SEOUL · TOKYO",
+   "n": 15,
+   "tag": "MARKETS"
+  },
+  {
+   "critical": false,
+   "deck": "26 body bags evacuated; 28 still missing as police open a criminal probe. 24 deaths confirmed.",
+   "halftone": false,
+   "headline": "26 BODY BAGS",
+   "kicker": "INDONESIA — CIKANDE",
+   "n": 9,
+   "tag": "DISASTER"
+  }
+ ],
+ "inside_today": [
+  "A1  WORLD — AWACS to Poland",
+  "A2  MARKETS — Asia rallies +9.1%",
+  "B1  DISASTER — Cikande: 26 body bags",
+  "C1  EUROPE — Zaporizhzhia: 2 dead"
+ ],
+ "kicker": "THE WORLD IN ONE DAY  —  43 STORIES  ·  6 REGIONS  ·  EVERY ONE DATED TUESDAY 24 NOVEMBER 2026",
+ "map_pins": [
+  {
+   "label": "POLAND",
+   "lat": 52.2,
+   "lon": 21.0
+  },
+  {
+   "label": "ZAPORIZHZHIA",
+   "lat": 47.8,
+   "lon": 35.1
+  },
+  {
+   "label": "GAZA",
+   "lat": 31.5,
+   "lon": 34.5
+  },
+  {
+   "label": "HORMUZ",
+   "lat": 26.5,
+   "lon": 56.3
+  },
+  {
+   "label": "ULLEUNG",
+   "lat": 37.5,
+   "lon": 130.9
+  },
+  {
+   "label": "CIKANDE",
+   "lat": -6.2,
+   "lon": 106.3
+  },
+  {
+   "label": "BRASÍLIA",
+   "lat": -15.8,
+   "lon": -47.9
+  },
+  {
+   "label": "TOKYO",
+   "lat": 35.7,
+   "lon": 139.7
+  },
+  {
+   "label": "SEOUL",
+   "lat": 37.5,
+   "lon": 127.0
+  },
+  {
+   "label": "EMDEN",
+   "lat": 53.4,
+   "lon": 7.2
+  },
+  {
+   "label": "BOGURA",
+   "lat": 24.8,
+   "lon": 89.4
+  },
+  {
+   "label": "SIKKIM",
+   "lat": 27.5,
+   "lon": 88.5
+  },
+  {
+   "label": "JIUQUAN",
+   "lat": 39.7,
+   "lon": 98.5
+  },
+  {
+   "label": "KOUROU",
+   "lat": 5.2,
+   "lon": -52.8
+  },
+  {
+   "label": "BOLOGNA",
+   "lat": 44.5,
+   "lon": 11.3
+  },
+  {
+   "label": "LANDOVER",
+   "lat": 38.9,
+   "lon": -76.9
+  }
+ ],
+ "numbers_footnote": "Sources: Reuters · AP · AFP · S&P Global · USGS.",
+ "numbers_table": [
+  [
+   "+9.1%",
+   "Taiex — biggest day in over a year"
+  ],
+  [
+   "+7%",
+   "Kospi — Samsung +8%, SK Hynix +9%"
+  ],
+  [
+   "353–128",
+   "Brazil lower house passes fiscal package"
+  ],
+  [
+   "26",
+   "body bags evacuated after Cikande fire"
+  ],
+  [
+   "2 / 22",
+   "killed / wounded in Zaporizhzhia strike"
+  ],
+  [
+   "$89",
+   "Brent crude — near a 3-month low"
+  ]
+ ],
+ "pull_quote": "“There is no need to invoke Article 4.”",
+ "pull_quote_attribution": "Paweł Zalewski, Polish Deputy Defence Minister",
+ "quote_attribution": "— Mark Rutte, NATO Secretary General",
+ "quote_of_day": "“Clearly, this is a dangerous incident originating from Russia.”",
+ "region_bar": [
+  [
+   "EUROPE",
+   11
+  ],
+  [
+   "ASIA-PACIFIC",
+   15
+  ],
+  [
+   "AMERICAS",
+   9
+  ],
+  [
+   "MIDDLE EAST",
+   2
+  ],
+  [
+   "OCEANIA",
+   2
+  ],
+  [
+   "GLOBAL",
+   4
+  ],
+  [
+   "AFRICA",
+   0
+  ]
+ ],
+ "stories": [
+  {
+   "headline": "NATO sends AWACS to Poland after missile scare",
+   "n": 1,
+   "region": "EU",
+   "tag": "NATO DESK",
+   "top10": 1
+  },
+  {
+   "headline": "Zaporizhzhia strike: 2 killed, 22 hurt, 2 children",
+   "n": 2,
+   "region": "EU",
+   "tag": "AIR WAR",
+   "top10": 4
+  },
+  {
+   "headline": "Israeli strike on Khan Younis kills 3, wounds 5",
+   "n": 3,
+   "region": "ME",
+   "tag": "GAZA",
+   "top10": 6
+  },
+  {
+   "headline": "Ukraine air force: >130 Russian drones downed",
+   "n": 4,
+   "region": "EU",
+   "tag": "AIR WAR",
+   "top10": 0
+  },
+  {
+   "headline": "Russia claims 699 Ukrainian drones downed",
+   "n": 5,
+   "region": "EU",
+   "tag": "CLAIM",
+   "top10": 0
+  },
+  {
+   "headline": "Russia claims Odesa ship, Chernihiv station hit",
+   "n": 6,
+   "region": "EU",
+   "tag": "CLAIM",
+   "top10": 0
+  },
+  {
+   "headline": "IRGC claims 3 tankers hit mines in Hormuz",
+   "n": 7,
+   "region": "ME",
+   "tag": "CLAIM",
+   "top10": 0
+  },
+  {
+   "headline": "Russian jets enter KADIZ; Ulleung alert lifted",
+   "n": 8,
+   "region": "AS",
+   "tag": "KADIZ",
+   "top10": 8
+  },
+  {
+   "headline": "Cikande: 26 body bags, case now criminal probe",
+   "n": 9,
+   "region": "AS",
+   "tag": "DISASTER",
+   "top10": 3
+  },
+  {
+   "headline": "Brazil passes Lula fiscal package 353–128",
+   "n": 10,
+   "region": "AM",
+   "tag": "CONGRESS",
+   "top10": 5
+  },
+  {
+   "headline": "Spain poll blackout begins ahead of 29 Nov vote",
+   "n": 11,
+   "region": "EU",
+   "tag": "ELECTIONS",
+   "top10": 0
+  },
+  {
+   "headline": "Trump approval 45%, lowest of second term",
+   "n": 12,
+   "region": "AM",
+   "tag": "POLLS",
+   "top10": 0
+  },
+  {
+   "headline": "Malaysia cuts off 7 US-blacklisted firms",
+   "n": 13,
+   "region": "AS",
+   "tag": "TRADE",
+   "top10": 0
+  },
+  {
+   "headline": "Seoul: Lee orders exam-cheat crackdown",
+   "n": 14,
+   "region": "AS",
+   "tag": "SEOUL",
+   "top10": 0
+  },
+  {
+   "headline": "Asia rallies: Taiex +9.1%, Kospi +7%",
+   "n": 15,
+   "region": "AS",
+   "tag": "MARKETS",
+   "top10": 2
+  },
+  {
+   "headline": "Brent ~$89, near 3-month low on surplus",
+   "n": 16,
+   "region": "WD",
+   "tag": "OIL",
+   "top10": 10
+  },
+  {
+   "headline": "Gold ~$3,645; Bitcoin briefly below $60,000",
+   "n": 17,
+   "region": "WD",
+   "tag": "MARKETS",
+   "top10": 0
+  },
+  {
+   "headline": "Japan factory PMI 53.7; composite 6-month low",
+   "n": 18,
+   "region": "AS",
+   "tag": "ECONOMY",
+   "top10": 0
+  },
+  {
+   "headline": "Fed’s Williams: inflation still too high",
+   "n": 19,
+   "region": "AM",
+   "tag": "THE FED",
+   "top10": 0
+  },
+  {
+   "headline": "VW opens wage talks at Emden amid strike threat",
+   "n": 20,
+   "region": "EU",
+   "tag": "EMDEN",
+   "top10": 9
+  },
+  {
+   "headline": "IG Metall strikes spread to 22 plants, 39,000 out",
+   "n": 21,
+   "region": "EU",
+   "tag": "IG METALL",
+   "top10": 9
+  },
+  {
+   "headline": "NZ dollar hits 17-year low near 54.6 US cents",
+   "n": 22,
+   "region": "OC",
+   "tag": "CURRENCY",
+   "top10": 0
+  },
+  {
+   "headline": "Shenzhou-24: first foreign astronaut to Tiangong",
+   "n": 23,
+   "region": "AS",
+   "tag": "LAUNCH PAD",
+   "top10": 7
+  },
+  {
+   "headline": "Ariane 6 retries today, 17:45 WIB window",
+   "n": 24,
+   "region": "EU",
+   "tag": "LAUNCH PAD",
+   "top10": 0
+  },
+  {
+   "headline": "Claude claims VP≠VNP proof — unverified",
+   "n": 25,
+   "region": "WD",
+   "tag": "THE PROOF",
+   "top10": 0
+  },
+  {
+   "headline": "FT: SpaceX–Tesla name 5 directors for merger talks",
+   "n": 26,
+   "region": "AM",
+   "tag": "MERGERS",
+   "top10": 0
+  },
+  {
+   "headline": "Google links Wallet, Drive, Gemini to AI Mode",
+   "n": 27,
+   "region": "WD",
+   "tag": "TECH",
+   "top10": 0
+  },
+  {
+   "headline": "MNF: Commanders stun Bengals 22–20 on final kick",
+   "n": 28,
+   "region": "AM",
+   "tag": "THE GRIDIRON",
+   "top10": 0
+  },
+  {
+   "headline": "NBA: Bucks end 13-game skid; Avdija 31",
+   "n": 29,
+   "region": "AM",
+   "tag": "THE HARDWOOD",
+   "top10": 0
+  },
+  {
+   "headline": "Larkin debuts for Montreal with an assist",
+   "n": 30,
+   "region": "AM",
+   "tag": "THE RINK",
+   "top10": 0
+  },
+  {
+   "headline": "Brentford thrash Everton 4–0; Moyes record spoiled",
+   "n": 31,
+   "region": "EU",
+   "tag": "THE PITCH",
+   "top10": 0
+  },
+  {
+   "headline": "Alcaraz rests as Spain prep Davis Cup QF",
+   "n": 32,
+   "region": "EU",
+   "tag": "TENNIS",
+   "top10": 0
+  },
+  {
+   "headline": "Tickner out of 2nd Test; Fisher called up",
+   "n": 33,
+   "region": "OC",
+   "tag": "CRICKET",
+   "top10": 0
+  },
+  {
+   "headline": "Florida State hires Georgia DC Schumann",
+   "n": 34,
+   "region": "AM",
+   "tag": "COLLEGE",
+   "top10": 0
+  },
+  {
+   "headline": "Michigan ends Miami’s perfect start 79–58",
+   "n": 35,
+   "region": "AM",
+   "tag": "COLLEGE",
+   "top10": 0
+  },
+  {
+   "headline": "Actor Sohel Khan dies on set in Bogura, 66",
+   "n": 36,
+   "region": "AS",
+   "tag": "OBITUARY",
+   "top10": 0
+  },
+  {
+   "headline": "Japan draws auto suppliers into arms buildup",
+   "n": 37,
+   "region": "AS",
+   "tag": "DEFENCE",
+   "top10": 0
+  },
+  {
+   "headline": "Japan studies second capital for disaster HQ",
+   "n": 38,
+   "region": "AS",
+   "tag": "TOKYO",
+   "top10": 0
+  },
+  {
+   "headline": "Quake M5.3 shakes Sikkim–east Nepal",
+   "n": 39,
+   "region": "AS",
+   "tag": "QUAKES",
+   "top10": 0
+  },
+  {
+   "headline": "Modi ranked Asia’s #2 most effective leader",
+   "n": 40,
+   "region": "AS",
+   "tag": "INDEX",
+   "top10": 0
+  },
+  {
+   "headline": "Indonesia signs Expo 2030 Riyadh contract",
+   "n": 41,
+   "region": "AS",
+   "tag": "DIPLOMACY",
+   "top10": 0
+  },
+  {
+   "headline": "Hong Kong welcomes 5.1m visitors in October",
+   "n": 42,
+   "region": "AS",
+   "tag": "TOURISM",
+   "top10": 0
+  },
+  {
+   "headline": "PNP orders probe into Lanao police chief death",
+   "n": 43,
+   "region": "AS",
+   "tag": "MANILA",
+   "top10": 0
+  }
+ ],
+ "ticker": "TAIEX +9.1% | KOSPI +7% | BRENT $89 | BITCOIN <$60K | GOLD $3,645 | CIKANDE 26 BODY BAGS | AWACS TO POLAND | COMMANDERS 22–20",
+ "timeline": [
+  [
+   "00:12",
+   "Claude posts VP≠VNP paper (unverified)"
+  ],
+  [
+   "01:32",
+   "Sikkim quake M5.3 (USGS)"
+  ],
+  [
+   "03:02",
+   "Indonesia signs Expo 2030 Riyadh deal"
+  ],
+  [
+   "03:34",
+   "Ukraine AF: >130 drones downed overnight"
+  ],
+  [
+   "05:46",
+   "Russia claims 699 drones downed"
+  ],
+  [
+   "MORNING",
+   "VW wage talks open in Emden"
+  ],
+  [
+   "10:45",
+   "Ariane 6 window opens — retry today"
+  ]
+ ],
+ "tomorrow": [
+  "Shenzhou-24 launches Wed 07:18 WIB",
+  "IG Metall talks round 4, Mannheim",
+  "Davis Cup QF: Spain–Austria Thu 17:00 CET",
+  "Ariane 6 separations ~19:50 WIB tonight"
+ ]
+}
